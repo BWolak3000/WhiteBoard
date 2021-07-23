@@ -14,7 +14,8 @@ colours = {
             'light_gray': (170, 170, 170),
             'dark_gray': (100, 100, 100),
             'white': (255, 255, 255),
-            'font_colour': (255, 255, 255)
+            'font_colour': (255, 255, 255),
+            'light_light_gray': (50, 50, 50)
         }
 
 
